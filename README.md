@@ -1,3 +1,3 @@
-# moved
+# archived
 
-This project is now **[Astras](https://github.com/National-Security-Intelligence/astras)**.
+Empty on purpose. Use https://github.com/National-Security-Intelligence/astras
